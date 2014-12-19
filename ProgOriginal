@@ -1,2 +1,2 @@
 if (nota >= 40 && nota <= 90) result = "esta aprobado"
-else if (nota >= 90 && nota < 100) result = "promocionó" 
+else if (nota >= 90 && nota < 100) result = "Usted Promocionó" 
